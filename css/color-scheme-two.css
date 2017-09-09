@@ -1,0 +1,90 @@
+.color-scheme-two a,
+.color-scheme-two a:focus,
+.color-scheme-two a:hover,
+.color-scheme-two .quick-contact a:hover,
+.color-scheme-two .quick-contact a i,
+.color-scheme-two .social-links a:hover,
+.color-scheme-two .navigation > ul > li:hover > a,
+.color-scheme-two .single-process i,
+.color-scheme-two .single-process-inner:hover h6,
+.color-scheme-two .single-service:hover .service-icon i,
+.color-scheme-two .single-service:hover .service-details h6,
+.color-scheme-two .single-fact i,
+.color-scheme-two .portfolio-filter a:hover,
+.color-scheme-two .portfolio-filter .active > a,
+.color-scheme-two .pricing-style-2 .pricing-value > h1,
+.color-scheme-two .pricing-style-2 .single-price-table-inner:hover .pricing-value h1,
+.color-scheme-two .pricing-style-2 .single-price-table-inner:hover .pricing-value .doller-sign,
+.color-scheme-two .member-social a,
+.color-scheme-two .post-meta a:hover,
+.color-scheme-two .post-footer a:hover,
+.color-scheme-two .post-title a:hover,
+.color-scheme-two .map-info-icon,
+.color-scheme-two .single-footer-widget-inner a:hover,
+.color-scheme-two #newsletter-form > button,
+.color-scheme-two .services-style-3 .service-icon i,
+.color-scheme-two .fun-fact-style-2 .single-fact h2,
+.color-scheme-two .fun-fact-style-3 .single-fact h2,
+.color-scheme-two .fun-fact-style-3 .single-fact i,
+.color-scheme-two.mean-container a.meanmenu-reveal {
+    color: #00c864;
+}
+
+.color-scheme-two .dropdown-nav,
+.color-scheme-two .slick-dots button,
+.color-scheme-two .pricing-style-2 .single-price-table-inner:hover .pricing-footer .btn-bordered,
+.color-scheme-two .member-social a,
+.color-scheme-two #testimonial-section .slick-dots .slick-active button,
+.color-scheme-two #testimonial-section .slick-prev,
+.color-scheme-two #testimonial-section .slick-next,
+.color-scheme-two .slick-prev:hover,
+.color-scheme-two .slick-prev:focus,
+.color-scheme-two .slick-next:hover,
+.color-scheme-two .slick-next:focus,
+.color-scheme-two .single-process-inner:hover,
+.color-scheme-two .services-style-3 .service-icon i,
+.color-scheme-two .extra-navigation li a:hover,
+.color-scheme-two .extra-navigation li a:focus {
+    border-color: #00c864;
+}
+
+.color-scheme-two .dropdown-nav li:hover > a,
+.color-scheme-two .slick-dots .slick-active button,
+.color-scheme-two .section-heading > h2::before,
+.color-scheme-two .section-heading > h2::after,
+.color-scheme-two .pricing-style-2 .single-price-table-inner:hover .pricing-head,
+.color-scheme-two .single-price-table-inner:hover .pricing-footer .btn,
+.color-scheme-two .member-social a:hover,
+.color-scheme-two #testimonial-section .slick-dots .slick-active button,
+.color-scheme-two #testimonial-section .slick-prev,
+.color-scheme-two #testimonial-section .slick-next,
+.color-scheme-two .slick-prev:hover,
+.color-scheme-two .slick-prev:focus,
+.color-scheme-two .slick-next:hover,
+.color-scheme-two .slick-next:focus,
+.color-scheme-two .mark,
+.color-scheme-two mark,
+.color-scheme-two .services-style-3 .single-service:hover .service-icon i,
+.color-scheme-two .extra-navigation li a:hover,
+.color-scheme-two .extra-navigation li a:focus,
+.color-scheme-two .extra-menu .extra-menu-close,
+.color-scheme-two.mean-container .mean-nav,
+.color-scheme-two.mean-container a.meanmenu-reveal span,
+.color-scheme-two .slider-wrapper.color-bg {
+    background-color: #00c864;
+}
+
+.color-scheme-two .btn,
+.color-scheme-two .btn:focus,
+.color-scheme-two .btn:hover {
+    color: #fff;
+}
+.color-scheme-two .btn-white,
+.color-scheme-two .btn-white:hover,
+.color-scheme-two .btn-white:focus {
+    background-color: #fff;
+    color: #464646;
+}
+.color-scheme-two .portfolio-item-description {
+    background-color: rgba(232, 75, 58, 0.9);
+}
